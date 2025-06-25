@@ -1,1 +1,0 @@
-ใบงานนี้เป็นการฝึกใช้คำสั่งพื้นฐานของ Python ได้แก่ print(), input(), len(), type() และการ debug error
